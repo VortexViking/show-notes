@@ -1,6 +1,8 @@
 #OpenSUSE Tour Video
 
 # Physical Pc Build / OS / DE
+
+```
         JJJJJJJJ                            vortexviking@localhost.localdomain 
       JJJJJJJJJJJJJJ                         ---------------------------------- 
     JJJJJJ   =JJJJJJJ                        OS: openSUSE Tumbleweed x86_64 
@@ -25,7 +27,7 @@
                            JJJJJJJ=                                  
 
 
-
+```
 # Gnome Customization:
 ## Prequisets
 - Extension Manager
